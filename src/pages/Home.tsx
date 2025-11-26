@@ -14,7 +14,7 @@ const Home = () => {
           <nav className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Sparkles" className="text-primary" size={32} />
-              <span className="text-2xl font-bold text-gradient">AstroVerse</span>
+              <span className="text-2xl font-bold text-gradient">Natana</span>
             </div>
             <div className="hidden md:flex items-center gap-8">
               <Link to="/" className="text-foreground/80 hover:text-primary transition-colors">Главная</Link>
@@ -141,7 +141,7 @@ const Home = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2">
               <Icon name="Sparkles" className="text-primary" size={24} />
-              <span className="font-semibold">AstroVerse</span>
+              <span className="font-semibold">Natana</span>
             </div>
             <div className="flex gap-6 text-sm text-foreground/60">
               <a href="#" className="hover:text-primary transition-colors">О проекте</a>
@@ -149,7 +149,7 @@ const Home = () => {
               <a href="#" className="hover:text-primary transition-colors">Контакты</a>
             </div>
             <div className="text-sm text-foreground/60">
-              © 2024 AstroVerse. Все права защищены.
+              © 2024 Natana. Все права защищены.
             </div>
           </div>
         </div>

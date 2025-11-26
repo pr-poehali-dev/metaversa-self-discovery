@@ -103,7 +103,7 @@ const Forum = () => {
           <nav className="flex items-center justify-between">
             <Link to="/" className="flex items-center gap-2">
               <Icon name="Sparkles" className="text-primary" size={28} />
-              <span className="text-xl font-bold text-gradient">AstroVerse</span>
+              <span className="text-xl font-bold text-gradient">Natana</span>
             </Link>
             <div className="flex items-center gap-6">
               <Link to="/" className="text-foreground/80 hover:text-primary transition-colors">Главная</Link>
